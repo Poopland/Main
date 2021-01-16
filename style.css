@@ -1,0 +1,30 @@
+.normaldiv {
+    font-family: 'Fredoka One', cursive;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    background-color: rgb(59, 59, 59);
+    border-radius: 20px;
+}
+
+.maindiv {
+    font-family: 'Fredoka One', cursive;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    background-color: rgb(59, 59, 59);
+    border-radius: 20px;
+    padding: 1cm;
+    font-size: 30px;
+}
+
+.href {
+    color: white;
+    font-size: 30px;
+}
+
+.img {
+    width: 1.5cm;
+    height: 1.5cm;
+    border-radius: 15px;
+    text-align: center;
+    transform: translate(5% , 10%);
+}
